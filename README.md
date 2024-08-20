@@ -1,7 +1,6 @@
 
 # Olá, eu sou o Luiz Gustavo! 👋
 
-
 <details>
 <summary>Desafio de Carreira Módulo 02.</summary>
 
@@ -9,8 +8,6 @@
 <p>
 
 O desafio é baseado na matriz SQA (Sei/ Quero Saber/ Aprendi), onde irei apresentar os conteúdos técnicos e de carreira que vou estudar no Módulo 02 na turma 17 da Cubos Academy, curso de Desenvolvimento de Software-Full Stack.
-
-
 
 ### Conteúdos a serem trabalhados nesse módulo:
 
@@ -24,7 +21,6 @@ O desafio é baseado na matriz SQA (Sei/ Quero Saber/ Aprendi), onde irei aprese
 * Métodos de Arrays 2 - *técnico*;
 * LinkedIn: Primeiros Passos - *carreira*;
 * Métodos de Arrays 3 - *técnico*;
-
 
 ### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -78,7 +74,6 @@ O desafio é baseado na matriz SQA (Sei/ Quero Saber/ Aprendi), onde irei aprese
   
 O desafio desse módulo é sobre o que eu aprendi com os conteúdos do Módulo 02, os conteúdos a serem trabalhados e o que eu já sei sobre eles. Irei apresentar os conteúdos técnicos e de carreira que estudei no Módulo 02 e os conteúdos do Módulo 03 na turma 17 da Cubos Academy, curso de Desenvolvimento de Software-Full Stack.
 
-
 ### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 * Eu aprendi como aplicar tipos em funções e deixar o código mais limpo.
@@ -123,8 +118,6 @@ ACABAR DEPOIS ESSA PARTE...
 
 </details>
 
-
-
 <details>
 <summary>Desafio de Carreira Módulo 04.</summary>
 
@@ -132,7 +125,6 @@ ACABAR DEPOIS ESSA PARTE...
 <p>
 
 O desafio é baseado na matriz SQA (Sei/ Quero Saber/ Aprendi), onde irei apresentar os conteúdos técnicos e de carreira que vou estudar no Módulo 03 na turma 17 da Cubos Academy, curso de Desenvolvimento de Software-Full Stack.
-
 
 ### Minha evolução: o que aprendi sobre os assuntos que foram abordados no módulo 03?
 
@@ -149,7 +141,6 @@ O desafio é baseado na matriz SQA (Sei/ Quero Saber/ Aprendi), onde irei aprese
 *  Autoconhecimento e inteligência emocional, aprendi a como me comportar, ter essa inteligência no trabalho.
 *  Tratamento de erros com herança e polimorfismo, preciso rever essa aula, porque não absorvi tão bem o conteúdo dela.
 *  Na aula de tendências em ttecnologia, vi quais são  as altas do mercado tech, o que está surgindo e como  ingressar nessas áreas, de qual forma posso me manter atualizado nesse mercado que sempre se modifica e surge novas tecnologias.
-
 
 ### Conteúdos a serem trabalhados nesse módulo:
 
@@ -181,7 +172,10 @@ O desafio é baseado na matriz SQA (Sei/ Quero Saber/ Aprendi), onde irei aprese
 * Agrupamento entre tabelas deve ser a forma de juntar duas tabelas distintas de um banco de dados. Minha primeira vez tendo contato com esse conteúdo.
 * Na aula de marca pessoal, pode ser como criar pontos na minha carreira de onde eu quero alcançar dentro do mercado de trabalho.
 * Na aula de conexão Node.Js com PostgreSQL, acredito que seja a forma de conectar meu código com o banco de dados, fazendo CRUD direto do meu código.
-* 
+* Sobre autenticação e criptografia acredito que iremos usar alguma bibilioteca para gerar a criptografia. Vi um pouco com a monitoria, mas nada aprofundado.
+* Para integrar api de terceiros com a minha eu não sei fazer, mas acredito que não seja muito complicado. Talvez fazer uma integração dessa api com a minha e assim conectar as duas.
+* Em git e fluxo de trabalho em equipe estou tendo uma experiência com o desafio técnico do módulo 04 com minha dupla. É um pouco complicado no começo mas depois pegamos o jeito.
+<p>
 
 </details>
 
